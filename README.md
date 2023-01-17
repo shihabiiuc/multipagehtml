@@ -3,7 +3,7 @@ This repository is a part of my blog post [Shihabiiuc.Com/HTMLMultipageWebsite](
 
 This is a plain HTML & CSS template available for download.
 
-_Check the blog post to learn how I built this multipage HTML template only using HTML & CSS. This will also give you basic undertanding about creating static website, the way to linking among pages. Also, you'll understand the mobile-frist philoshophy._
+_Check the blog post to learn how I built this multipage HTML template only using HTML & CSS. This will also give you basic undertanding about creating static website, the way to linking among pages. Also, you'll understand the mobile-frist philosophy._
 
 _Also, you'll learn how to deploy a static website to a live domain/hosting/server._
 
